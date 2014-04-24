@@ -4,6 +4,7 @@ Requires at least: 3.8
 Tested up to: 3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 1.0.1
 
 Allows you to create a popup for your website with specific input to taylor for your needs
 
@@ -30,6 +31,9 @@ Create a popup for your website. You are able to specify the following in order 
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Bug fixes
 
 = 1.0 =
 * First version of plugin
